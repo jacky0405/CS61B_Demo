@@ -16,7 +16,7 @@ Breadth-First Search
 Depth-First Search & Cycle Check
 ![CycleDetect](./lab11/CycleDetect.gif)
 
-A*
+A*  
 ![AStar](./lab11/AStar.gif)
 [Description](https://sp18.datastructur.es/materials/lab/lab11/lab11)  
 [SourceCode](https://github.com/jacky0405/CS61B/tree/main/lab11/lab11/graphs)
